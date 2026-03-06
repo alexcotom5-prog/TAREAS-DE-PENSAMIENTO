@@ -1,0 +1,25 @@
+numero-int(input(" ingrese un numero: "))
+4- if 100 <=999:
+print("es de 4 digitos")
+d1 = numero // 100
+d2 = (numero % 100) // 10
+d3 = numero % 10
+if d1 > d2:
+aux = di
+d1 = d2
+d2 = aux
+if d1 > d3:
+aux = d1
+d1 = d3
+d3 = aux
+if d2 > d3:
+aux = d2
+d2 = d3
+d3 = aux
+print("el programa muestra en forma ascendente:". d1. "
+." .
+. d2.
+print("el programa muestra en forma descendente:". d3, ",
+d2, "
+Else:
+print("numero no valido")
