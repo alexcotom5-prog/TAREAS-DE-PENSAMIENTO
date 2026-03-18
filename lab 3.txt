@@ -1,0 +1,22 @@
+#i=1
+#suma=
+#whilw=0
+#while i<=5:
+ #   suma=suma+i
+  #  i+i=1
+#print("suma:", suma)
+
+
+#n=int(input("escriba un numero (0 para salir): "))
+
+#while n !=0:
+ #   print("escribiste:")
+    
+    
+#i=0
+#suma=0
+#while i<=20:
+ #   if i%2==0:
+  #      suma+=i
+   # i+=1
+#print("suma de pares: ", suma)
